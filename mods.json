@@ -148,6 +148,6 @@
     "name": "Peaceful Ghosts",
     "uniqueName": "Leadpogrommer.PeacefulGhosts",
     "repo": "leadpogrommer/PeacefulGhosts",
-    "manifest": "manifest.json"
+    "manifest": "PeacefulGhosts/manifest.json"
   }
 ]
